@@ -2,8 +2,8 @@
 
 Join journalist and author **Norman Solomon** to discuss what the 2016 election taught us, how to avoid repeating its failures, and what it means for the future of progressivism.
 
-Wednesday, April 25, 2018 7:00-9:00pm
-Kane Hall 210, University of Washington
+Wednesday, April 25, 2018 7:00-9:00pm<br>
+Kane Hall 210, University of Washington<br>
 4069 Spokane Ln, Seattle, WA 98105
 
 [Flyer](autopsy-flyer.pdf)
