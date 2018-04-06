@@ -15,6 +15,6 @@ Kane Hall 210, University of Washington
 > Building an intersectional coalition — one that unites the working class across racial lines while addressing issues specific to people who are targeted based on identity — is key to creating an electoral force that can not only win, but also overwhelm the small group of wealthy white men the GOP works to further enrich. If the Democratic Party is to become such a political force, it will require a much bolder economic agenda to directly challenge corporate power.
 > "Corporate Power and the Party" from Autopsy: The Democratic Party in Crisis
 
-Read the report at https://democraticautopsy.org/
+Read the report at <https://democraticautopsy.org/>
 
 For more information, call the Harry Bridges Center for Labor Studies at 206-543-7946 or email hbcls@uw.edu
